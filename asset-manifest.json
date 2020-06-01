@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.js": "/React-Poll-App/static/js/main.530fed34.chunk.js",
+    "main.js.map": "/React-Poll-App/static/js/main.530fed34.chunk.js.map",
+    "runtime-main.js": "/React-Poll-App/static/js/runtime-main.395bc172.js",
+    "runtime-main.js.map": "/React-Poll-App/static/js/runtime-main.395bc172.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/React-Poll-App/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.2aec2282.chunk.js": "/React-Poll-App/static/js/2.2aec2282.chunk.js",
+    "static/js/2.2aec2282.chunk.js.map": "/React-Poll-App/static/js/2.2aec2282.chunk.js.map",
+    "index.html": "/React-Poll-App/index.html",
+    "precache-manifest.4bbd3e6e0ec6de995216f54c9d249b01.js": "/React-Poll-App/precache-manifest.4bbd3e6e0ec6de995216f54c9d249b01.js",
+    "service-worker.js": "/React-Poll-App/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/React-Poll-App/static/css/2.af3c1da9.chunk.css.map",
+    "static/js/2.2aec2282.chunk.js.LICENSE.txt": "/React-Poll-App/static/js/2.2aec2282.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.395bc172.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.2aec2282.chunk.js",
+    "static/js/main.530fed34.chunk.js"
+  ]
+}
