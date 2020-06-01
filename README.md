@@ -1,3 +1,3 @@
-#######  REACT STOPWATCH #######
+#######  REACT SMART POLL APP #######
 
--> This stopwatch developed by using core React.
+-> This app developed by using core React.
